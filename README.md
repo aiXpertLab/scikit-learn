@@ -15,7 +15,8 @@ The steps of the projects explained below:
 
 **Insights:** I highlighted some insights based on the data.
 
-![image](https://user-images.githubusercontent.com/105684729/205505323-8edee74c-2145-4919-9edb-eab61cae2b2b.png)
+![image](https://github.com/YusufGulcan/Required_Skills/assets/105684729/c007518b-a9fc-45e1-aecb-2e8dfbd4ae3b)
+
 
 ### Take Away Points:
 
